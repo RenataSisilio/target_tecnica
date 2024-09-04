@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/` and library code
-in `lib/`.
+Run it with ```dart run``` to see the results.
